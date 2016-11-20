@@ -1,4 +1,6 @@
-## Website Performance Optimization portfolio project
+##Welcome! 
+
+###This is the awesome Website Performance Optimization project
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
 

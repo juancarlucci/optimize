@@ -1,8 +1,8 @@
-##Welcome! 
+## Welcome! 
 
-###This is the awesome Website Performance Optimization project
+### This is the awesome Website Performance Optimization project
 
-####Part 1: Optimize PageSpeed Insights score for index.html
+#### Part 1: Optimize PageSpeed Insights score for index.html
 
 1.Added async and minified perfmatters.js
 
@@ -15,7 +15,7 @@
 5.Added @import in css for Open Sans, to avoid render blocking
 
 
-####Part 2: Optimize Frames per Second in pizza.html
+#### Part 2: Optimize Frames per Second in pizza.html
 
 Modifyied views/js/main.js to get 60 fps or higher.
 
@@ -25,7 +25,7 @@ Modifyied views/js/main.js to get 60 fps or higher.
 
 ### Getting started
 
-####Part 1: Optimize PageSpeed Insights score for index.html
+#### Part 1: Optimize PageSpeed Insights score for index.html
 
 Some useful tips to help you get started:
 
@@ -47,10 +47,10 @@ Some useful tips to help you get started:
 
 1. Copy the public URL ngrok gives you and try running it through PageSpeed Insights! Optional: [More on integrating ngrok, Grunt and PageSpeed.](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/)
 
-####Part 2: Optimize Frames per Second in pizza.html
+#### Part 2: Optimize Frames per Second in pizza.html
 
 Check views/js/main.js using Chrome Dev Tools to verify frames per second rate is 60 fps or higher.
 
 You might find the FPS Counter/HUD Display useful in Chrome developer tools described here: [Chrome Dev Tools tips-and-tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks).
 
-###Link to the [original code by Udacity] (https://github.com/udacity/frontend-nanodegree-mobile-portfolio)
+### Link to the [original code by Udacity] (https://github.com/udacity/frontend-nanodegree-mobile-portfolio)
